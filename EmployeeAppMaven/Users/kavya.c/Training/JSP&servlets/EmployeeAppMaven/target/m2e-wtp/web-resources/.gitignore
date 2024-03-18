@@ -1,0 +1,7 @@
+/META-INF/
+/bin/
+.classpath
+.project
+/target/
+.settings
+.jsdtscope

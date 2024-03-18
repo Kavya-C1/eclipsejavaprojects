@@ -1,0 +1,8 @@
+/com/
+
+/bin/
+.classpath
+.project
+/target/
+.settings
+.jsdtscope
